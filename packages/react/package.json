@@ -37,7 +37,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@datapunt/matomo-tracker-js": "^0.5.1"
+    "@datapunt/matomo-tracker-js": "^0.5.1",
+    "react": "^16.8.0"
   },
   "peerDependencies": {
     "react": ">= 16.8.0"
